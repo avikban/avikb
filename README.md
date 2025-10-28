@@ -1,2 +1,2 @@
 # avikb
-Polymath | Researching endless possibilities
+Polymath | Exploring Quantum ML
